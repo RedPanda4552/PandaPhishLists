@@ -1,6 +1,9 @@
 # PandaPhishLists
 Lists of phishing or otherwise sus domains seen on Discord and elsewhere.
 
+## ai-slop.txt
+Anything hosting or related to AI slop. E.g. those websites that just post fake AI generated slop stories to deceive, enrage, or both.
+
 ## email-stuff.txt
 Anything found in conventional email phishing or spam attempts.
 
